@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "npx eslint src/* --max-warning=0",
+    "lint": "npx eslint src/*",
     "test": "jest",
     "test:watch": "yarn test --watch"
   },
